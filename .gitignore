@@ -1,0 +1,13 @@
+# Binaries
+/esgo
+
+# Go build cache
+/go/pkg
+/go/bin
+
+# Dependency directories
+vendor/
+
+# Log and temporary files
+*.log
+*.tmp
